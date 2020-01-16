@@ -1,4 +1,4 @@
-Odoo Ureport
+Odoo Ureport2
 
 应用目录结构
 
